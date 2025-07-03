@@ -14,6 +14,8 @@ Tout manquement au règlement est passible de sanctions suivant le niveau de non
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
 
+* Nous conseillons un rec instantané (exemple: 5 dernières minutes) en cas de problème, **comme perte d'item, arnaque, report joueur, ect...**
+
 ## <mark style="color:yellow;">Partie I : Les Joueurs</mark> <a href="#partie-i-les-joueurs" id="partie-i-les-joueurs"></a>
 
 ### <mark style="color:yellow;">Article A : Votre compte</mark> <a href="#article-a-votre-compte" id="article-a-votre-compte"></a>
@@ -45,6 +47,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * L’utilisation de caractères spéciaux dans les /nick, sur les panneaux, dans le chat, … est strictement interdite.
 * Toute infraction pourra entraîner une modification forcée du pseudo ou du panneau, ainsi qu’une sanction.
 * En cas de situation ambiguë, sur un message ou autres situations, l’interprétation du staff fera foi.
+* Toute réaction aux vérifications d'anti-afk ou des modos (en vanish) est interdite, que ce soit dans le tchat ou autre.
 
 ### <mark style="color:yellow;">Article B : Un langage respectueux</mark> <a href="#article-b-un-langage-respectueux" id="article-b-un-langage-respectueux"></a>
 
@@ -77,7 +80,7 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 * Ainsi, il est interdit de promouvoir un serveur concurrent ou de citer un serveur autres que ceux de Rivrs.
 * La publicité de son propre contenu (vidéos Youtube, chaîne Twitch, compte TikTok…) est interdite sur le serveur, hormis si vous disposez du grade Créateur ou Partenaire.
 
-Chaque pub quelle qu'elle soit se doit d'être espacée de 30 minutes (pwarp, vente d'item, annonce d'événement, promotion d'un item...).
+* **Toutes les publicités devront passer par le /pub**, sans quoi des sanctions pourront être appliquées. Chaque pub quelle qu'elle soit se doit d'être espacée de 30 minutes **(ob warp, vente/achat d'item, annonce d'événement, promotion d'un item, location d'afk,...)**.
 
 ## <mark style="color:yellow;">Partie III : Le Gameplay</mark> <a href="#partie-iii-le-gameplay" id="partie-iii-le-gameplay"></a>
 
@@ -97,28 +100,41 @@ Chaque pub quelle qu'elle soit se doit d'être espacée de 30 minutes (pwarp, ve
 * Il est interdit de rejoindre une île, ou de faire quelconque action de bug ou utilisation de logiciels interdits, par exemple, dans un but de copier les farms/pattern déjà présentes sur celle-ci.
 * Il est interdit de récupérer du stuff ou des schématiques sur une île avant de la quitter sans accord préalable avec son chef. Concernant les schématiques, tout non respect entrainera le cut de celui-ci sans remboursement possible.
 * Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
+* Seuls les **membres de l'Island** sont autorisés à miné le oneblock, aucun **motif ne peut justifier** de miner sur le oneblock d'un autre.
 
 Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif sera sanctionné et la victime remboursée.
 
 ### <mark style="color:yellow;">Article B : Les actions interdites</mark> <a href="#article-b-les-actions-interdites" id="article-b-les-actions-interdites"></a>
 
-* L'Anti-AFK (circuit d'eau, **AFK Farm** etc) est interdit.
-* Le tp-kill est interdit. Il en va de même pour tout kill via des moyens divers.
-* Il est interdit d'utiliser une machine à pêche ou de farmer avec un véhicule (bateau, wagon, etc).
-* Il est interdit de poser des homes dans les autres box sans l'accord du chef de l'île.
-* La construction obscène, raciste et discriminante.
-* Les jeux de hasard :
-  * Les seuls jeux de hasard autorisés sur le serveur sont les jeux type casino. Il est obligatoire d’afficher le **pourcentage d’obtention des lots**.
-  * En cas de doute sur la fiabilité d'un casino, il est possible de demander à un Modérateur de le vérifier.
-* La vente d’items, de services ou autres en jeu contre l’argent réel ou des gemmes est interdite.
-* Le fait de poser/casser des **blocs farmables** (bois, pierres, minerais...) pour les missions coopératives, les rituels
-* La vente de cosmétiques, d’items de missions, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, de fausses têtes, de tête du staff, d’items exclusifs désenchantés.
-* Faire des chargements de chunks ou chunkloader.
-* Le prêt d’items entre joueurs est strictement interdit.
-  * Tout échange d’objets doit être définitif afin d’éviter les litiges.
-  * Le staff ne procédera à aucun remboursement en cas de non-restitution d’un item prêté.
-* Tout clique supérieure ou égale à 10 CPS.
-  * Cette règle s’applique dans tous les cas de figure.
+B.1 — **Exploits, triches et abus de gameplay**
+* L'utilisation de systèmes Anti-AFK (circuit d’eau, AFK Farm, etc.) est interdite.
+* Il est interdit de faire du tp-kill ou de tuer via des moyens détournés.
+* Les machines à pêche automatiques sont interdites.
+* Le farming à l’aide de véhicules (bateaux, wagons, etc.) est interdit.
+* Le pose/cassage abusif de blocs farmables (bois, pierres, minerais…) pour les missions coopératives ou les rituels est interdit.
+* Toute tentative de contourner la progression prévue dans les métiers (machines automatiques, exploitation de bug, etc.) est interdite.
+* Le chunkloading (chargement de chunks via des techniques détournées) est interdit.
+* Toute technique empêchant de faire disparaître (despawn) des mobs (Rename, bateau, etc.) est interdite.
+* Il est interdit d’utiliser un clic supérieur ou égal à 10 CPS, quelle que soit la situation.
+* En cas de doute sur une farm, un ticket doit être ouvert. Le staff peut supprimer toute farm jugée non conforme.
+* Interdiction d'utilisé le wither pour farm (**Oneblock, Farm, ...**).
+
+B.2 — **Constructions, interactions et comportements**
+* Il est interdit de poser un home dans la box d’un autre joueur sans l’accord du chef de l’île.
+* Les constructions obscènes, racistes ou discriminantes sont strictement interdites.
+* Il est interdit de dévoiler des informations liées aux quêtes de recherche dans le chat public.
+
+B.3 — **Économie, échanges et casinos**
+* Les jeux de hasard sont interdits, sauf ceux de type casino avec un affichage clair des probabilités. En cas de doute, un modérateur peut être sollicité pour vérification.
+* La vente d’items, de services ou de contenus en jeu contre de l’argent réel ou des gemmes est interdite.
+
+**Il est interdit de vendre** :
+
+* des cosmétiques
+* des items de mission
+* des items renommés dans le but de tromper (fausses clés, fausses têtes, têtes du staff, les têtes dans le HDB, items exclusifs désenchantés, etc.)
+* Le prêt d’items entre joueurs est strictement interdit. Tous les échanges doivent être définitifs.
+* Le staff ne remboursera aucun item non restitué.
 
 Cette liste n'est pas exhaustive.
 
@@ -131,7 +147,7 @@ Il est interdit de dévoiler dans le chat public les informations liées aux qu�
 ### <mark style="color:yellow;">Article C : Utilisation de la Redstone</mark> <a href="#article-c-utilisation-de-la-redstone" id="article-c-utilisation-de-la-redstone"></a>
 
 * La redstone est à utiliser dans la limite du raisonnable et de l'utile.
-* Les usines en dessous de "4-ticks", machines volantes ainsi que l’ensemble des machines de duplication sont interdites.
+* Les usines en dessous de "4-ticks" (**la vitesse doit être justifiée par son utilisation**), machines volantes ainsi que l’ensemble des machines de duplication sont interdites.
 * Les machines créant des lags, volontairement ou non, sont interdites.
 * Les usines sans système on/off pour éteindre votre clock sont interdites.
 * Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
@@ -198,11 +214,12 @@ Pour ce qui est de l'autoclick, tout moyen utilisé pour miner automatiquement, 
 
 Nous vous conseillons fortement d’appuyer vos demandes de remboursement par une preuve vidéo, des screens ou autres pour garantir de meilleurs délais. Les remboursements de vol ne sont pas automatiques, il est de la responsabilité du joueur de sécuriser ses coffres avec un cadenas (/cadenas sur un coffre) pour éviter toute perte.
 
-### <mark style="color:yellow;">Article J : Propriétaire de Oneblock</mark> <a href="#article-j-proprietaire-de-box" id="article-j-proprietaire-de-box"></a>
+### <mark style="color:yellow;">Article J : Propriétaire d'island</mark> <a href="#article-j-proprietaire-de-box" id="article-j-proprietaire-de-box"></a>
 
-* Un joueur désigné comme propriétaire du oneblock doit être actif sur le serveur. En cas d’inactivité supérieure à 15 jours, la propriété pourra être transféré.
+* Un joueur désigné comme propriétaire de l'island doit être actif sur le serveur. En cas d’inactivité supérieure à 14 jours, la propriété pourra être transféré.
 * Si un propriétaire du oneblock prévoit une absence prolongée, il est conseillé de prévenir le staff ou de transférer temporairement son rôle à un autre membre de confiance.
 * Toute tentative d'abus ou d'inactivité prolongée pour bloquer la gestion du oneblock pourra être sanctionnée.
+* L'ensemble des récompenses obtenues avec les phases du oneblock, doivent profiter à l'ensemble des membres et appartiennent à l'Island.
 
 ### <mark style="color:yellow;">Article K : Achat et gestion des PW</mark> <a href="#article-k-achat-et-gestion-des-pw" id="article-k-achat-et-gestion-des-pw"></a>
 
@@ -220,6 +237,7 @@ Nous vous conseillons fortement d’appuyer vos demandes de remboursement par un
     * Renommer des items de manière trompeuse (ex. renommer une shulker "Full Blé" alors qu'elle contient moins que prévu).
     * Vendre des items en prétendant qu'ils ont une valeur ou un effet qu'ils n'ont pas.
     * Toute tentative d'arnaque sera sanctionnée.
+    * Toute vente d'**item non réparable** doit posséder une **durabilité significative** pour être vendue.
 * Il est interdit de faire artificiellement monter ou descendre les prix du marché en achetant et revendant des objets.
   * Toute tentative de manipulation économique sera sanctionnée.
 * La vente de spawners renommés ou encore de rituels expirés est interdit.
@@ -241,4 +259,4 @@ En vous connectant sur nos plateformes, nous considérons que vous avez lu et ac
 
 Toute sanction sera donnée à l'entière appréciation du staff.
 
-Si vous souhaitez contester une quelconque sanction, merci de [créer un ticket](https://discord.com/channels/994553717556777041/994553719318392841) sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci. Toute création d'un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
+Si vous souhaitez contester une quelconque sanction, merci de [créer un ticket](https://discord.com/channels/705046816508477481/1139959862957187194) sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci. Toute création d'un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
