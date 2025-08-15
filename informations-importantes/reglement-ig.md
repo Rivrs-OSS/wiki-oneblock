@@ -106,7 +106,7 @@ Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif
 
 ### <mark style="color:yellow;">Article B : Les actions interdites</mark> <a href="#article-b-les-actions-interdites" id="article-b-les-actions-interdites"></a>
 
-B.1 — **Exploits, triches et abus de gameplay**
+<mark style="color:yellow;">B.1 — **Exploits, triches et abus de gameplay**</mark>
 * L'utilisation de systèmes Anti-AFK (circuit d’eau, AFK Farm, etc.) est interdite.
 * Il est interdit de faire du tp-kill ou de tuer via des moyens détournés.
 * Les machines à pêche automatiques sont interdites.
@@ -119,14 +119,15 @@ B.1 — **Exploits, triches et abus de gameplay**
 * En cas de doute sur une farm, un ticket doit être ouvert. Le staff peut supprimer toute farm jugée non conforme.
 * Interdiction d'utilisé le wither pour farm (**Oneblock, Farm, ...**).
 
-B.2 — **Constructions, interactions et comportements**
+<mark style="color:yellow;">B.2 — **Constructions, interactions et comportements**</mark>
 * Il est interdit de poser un home dans la box d’un autre joueur sans l’accord du chef de l’île.
 * Les constructions obscènes, racistes ou discriminantes sont strictement interdites.
 * Il est interdit de dévoiler des informations liées aux quêtes de recherche dans le chat public.
 
-B.3 — **Économie, échanges et casinos**
+<mark style="color:yellow;">B.3 — **Économie, échanges et casinos**</mark>
 * Les jeux de hasard sont interdits, sauf ceux de type casino avec un affichage clair des probabilités. En cas de doute, un modérateur peut être sollicité pour vérification.
 * La vente d’items, de services ou de contenus en jeu contre de l’argent réel ou des gemmes est interdite.
+* Toutes les formes de don que ce soit du stuff, de l'argent ou autre sont interdites dans toutes les situations.
 
 **Il est interdit de vendre** :
 
